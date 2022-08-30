@@ -8,6 +8,12 @@ O projeto Shopping Cart foi desenvolvido por [Mariana Werneck](https://www.linke
 
 ![Desempenho no Projeto](imgs/ShoppingCart.PNG)
 
+## Como utilizar:
+
+<p>Clone o repositório: <code> git@github.com:mariyzx/trybe-shopping-cart.git</code>.</p>
+<p>Acesse a pasta do repositório clonado.</p>
+<p>Rode o comando <code>npm install</code> para instalar as dependências do projeto e <code>npm start</code> para visualizar no navegador.</p>
+
 ## Preview:
 
 ![Tela Shopping Cart](imgs/shoppingCart2.PNG)
